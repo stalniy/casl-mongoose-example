@@ -4,10 +4,9 @@
   "description": "CASL and mongoose example",
   "main": "index.js",
   "dependencies": {
-    "@casl/ability": "^2.5.1",
-    "@casl/mongoose": "^2.2.2",
-    "@types/lodash": "^4.14.119",
-    "lodash": "^4.17.10",
+    "@casl/ability": "^3.0.0",
+    "@casl/mongoose": "^2.3.1",
+    "lodash": "^4.17.15",
     "mongoose": "^5.4.0"
   },
   "scripts": {
@@ -25,7 +24,8 @@
   },
   "homepage": "https://github.com/stalniy/casl-mongoose-example#readme",
   "devDependencies": {
-    "@types/mongoose": "^5.3.5",
+    "@types/mongoose": "^5.4.0",
+    "@types/lodash": "^4.14.119",
     "ts-node": "^7.0.1",
     "typescript": "^3.2.2"
   }
