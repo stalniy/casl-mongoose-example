@@ -8,7 +8,7 @@
     "@casl/mongoose": "^2.2.2",
     "@types/lodash": "^4.14.119",
     "lodash": "^4.17.10",
-    "mongoose": "^5.4.0"
+    "mongoose": "^5.7.5"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
