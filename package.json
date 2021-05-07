@@ -7,7 +7,7 @@
     "@casl/ability": "^2.5.1",
     "@casl/mongoose": "^2.2.2",
     "@types/lodash": "^4.14.119",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "mongoose": "^5.4.0"
   },
   "scripts": {
